@@ -49,28 +49,36 @@ export const PROJECTS: Project[] = [
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
   {
-    company: 'Reglazed Studio',
-    title: 'CEO',
-    start: '2024',
-    end: 'Present',
-    link: 'https://ibelick.com',
+    company: 'zaodiansha',
+    title: 'Co-Founder & CEO',
+    start: 'Aug 2025',
+    end: 'Oct 2025',
+    link: 'https://zaodiansha.com',
     id: 'work1',
   },
   {
-    company: 'Freelance',
-    title: 'Design Engineer',
-    start: '2022',
-    end: '2024',
+    company: 'Guangzhou Joysim',
+    title: 'AI Developer',
+    start: 'Nov 2024',
+    end: 'Present',
     link: 'https://ibelick.com',
     id: 'work2',
   },
   {
     company: 'Freelance',
-    title: 'Front-end Developer',
-    start: '2017',
-    end: 'Present',
+    title: 'Ethical Hacker',
+    start: 'Feb 2024',
+    end: 'June 2024',
     link: 'https://ibelick.com',
     id: 'work3',
+  },
+  {
+    company: 'Guangzhou Unicom',
+    title: 'Product Manager',
+    start: 'Jul 2023',
+    end: 'Dec 2023',
+    link: 'https://ibelick.com',
+    id: 'work4',
   },
 ]
 
@@ -106,20 +114,12 @@ export const BLOG_POSTS: BlogPost[] = [
 export const SOCIAL_LINKS: SocialLink[] = [
   {
     label: 'Github',
-    link: 'https://github.com/ibelick',
+    link: 'https://github.com/liweisu59',
   },
   {
-    label: 'Twitter',
-    link: 'https://twitter.com/ibelick',
-  },
-  {
-    label: 'LinkedIn',
-    link: 'https://www.linkedin.com/in/ibelick',
-  },
-  {
-    label: 'Instagram',
-    link: 'https://www.instagram.com/ibelick',
+    label: 'Stack Overflow',
+    link: 'https://stackoverflow.com/users/28636886/liwei-su',
   },
 ]
 
-export const EMAIL = 'your@email.com'
+export const EMAIL = 'liweisu59@gmail.com'
